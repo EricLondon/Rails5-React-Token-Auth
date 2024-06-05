@@ -31,7 +31,7 @@
     "babel-preset-stage-0": "^6.5.0",
     "bower-webpack-plugin": "^0.1.9",
     "chai": "^3.2.0",
-    "copyfiles": "^1.0.0",
+    "copyfiles": "^2.4.1",
     "css-loader": "^6.8.1",
     "eslint": "^3.0.0",
     "eslint-loader": "^1.0.0",
