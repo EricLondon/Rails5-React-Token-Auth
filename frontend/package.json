@@ -22,7 +22,7 @@
   "keywords": [],
   "author": "Your name here",
   "devDependencies": {
-    "babel-core": "^6.0.0",
+    "babel-core": "^6.26.3",
     "babel-eslint": "^6.0.0",
     "babel-loader": "^6.0.0",
     "babel-polyfill": "^6.3.14",
