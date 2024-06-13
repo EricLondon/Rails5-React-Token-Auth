@@ -64,7 +64,7 @@
     "axios": "^1.7.2",
     "core-js": "^3.37.1",
     "normalize.css": "^8.0.1",
-    "react": "^15.6.2",
+    "react": "^15.7.0",
     "react-bootstrap": "^0.32.4",
     "react-cookie": "^2.2.0",
     "react-dom": "^15.6.2",
