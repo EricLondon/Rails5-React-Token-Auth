@@ -37,7 +37,7 @@
     "eslint-loader": "^1.0.0",
     "eslint-plugin-react": "^7.34.2",
     "file-loader": "^0.11.2",
-    "glob": "^10.4.1",
+    "glob": "^10.4.2",
     "isparta-instrumenter-loader": "^1.0.0",
     "karma": "^6.4.3",
     "karma-chai": "^0.1.0",
