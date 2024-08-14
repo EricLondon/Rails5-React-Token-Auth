@@ -61,7 +61,7 @@
     "webpack-dev-server": "^5.0.4"
   },
   "dependencies": {
-    "axios": "^1.7.3",
+    "axios": "^1.7.4",
     "core-js": "^3.38.0",
     "normalize.css": "^8.0.1",
     "react": "^15.7.0",
