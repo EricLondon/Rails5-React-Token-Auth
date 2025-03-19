@@ -66,7 +66,7 @@
     "normalize.css": "^8.0.1",
     "react": "^19.0.0",
     "react-bootstrap": "^2.10.9",
-    "react-cookie": "^8.0.0",
+    "react-cookie": "^8.0.1",
     "react-dom": "^19.0.0",
     "react-router-bootstrap": "^0.26.3",
     "react-router-dom": "^7.3.0"
