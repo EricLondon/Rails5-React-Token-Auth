@@ -54,7 +54,7 @@
     "phantomjs-prebuilt": "^2.0.0",
     "react-addons-test-utils": "^15.0.0",
     "react-hot-loader": "^4.13.1",
-    "rimraf": "^6.0.1",
+    "rimraf": "^6.1.0",
     "style-loader": "^4.0.0",
     "url-loader": "^4.1.1",
     "webpack": "^5.102.1",
