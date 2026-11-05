@@ -165,7 +165,7 @@ GEM
     prism (2.1.0-x86_64-darwin)
     prism (2.1.0-x86_64-linux-gnu)
     prism (2.1.0-x86_64-linux-musl)
-    puma (6.6.1)
+    puma (7.2.1)
       nio4r (~> 2.0)
     racc (1.8.1)
     rack (3.2.8)
@@ -264,7 +264,7 @@ DEPENDENCIES
   byebug
   knock
   listen (>= 3.0.5, < 3.10)
-  puma (~> 6.4)
+  puma (~> 7.2)
   rack-cors
   rails (~> 7.2.1)
   spring
@@ -343,7 +343,7 @@ CHECKSUMS
   prism (2.1.0-x86_64-darwin) sha256=6c645d8e6afc742956c7518220ce5106367727c4d9980ac9ab386d55004ddab4
   prism (2.1.0-x86_64-linux-gnu) sha256=b2b647afce09551e650b8bb3e2fc91d7d73d392a09534ca307ec0d619c33bfd4
   prism (2.1.0-x86_64-linux-musl) sha256=249f45981726923e259b927902246219fa25ad10a76f43849c9aee1a3d3ec5b8
-  puma (6.6.1) sha256=b9b56e4a4ea75d1bfa6d9e1972ee2c9f43d0883f011826d914e8e37b3694ea1e
+  puma (7.2.1) sha256=d7bf0e9cabd532e0d401e142cd94e3ac531e993610e2d80e6fbf9c26961414b0
   racc (1.8.1) sha256=4a7f6929691dbec8b5209a0b373bc2614882b55fc5d2e447a21aaa691303d62f
   rack (3.2.8) sha256=1fecc85e463ebc7a2a945fff829ffcd549babeb1556384796fad946c28dc4ec7
   rack-cors (3.0.0) sha256=7b95be61db39606906b61b83bd7203fa802b0ceaaad8fcb2fef39e097bf53f68
